@@ -15,7 +15,7 @@ body {
 }
 a { color: var(--amarelo); }
 .topo {
-  background: linear-gradient(180deg, rgba(7, 16, 34, 0.2), var(--noite)), url("banner.jpg") center / cover no-repeat;
+  background: linear-gradient(180deg, rgba(7, 16, 34, 0.35), var(--noite)), url("mapa.jpg") center / cover no-repeat;
   padding: 72px 16px 56px;
   text-align: center;
 }
